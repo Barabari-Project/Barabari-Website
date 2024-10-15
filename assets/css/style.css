@@ -1198,12 +1198,12 @@ footer {
 }
 
 .contact-info li {
-  margin-bottom: 0.8rem;
   color: #f0f0f0;
   font-size: 1rem;
 }
 
 .contact-info a {
+  text-transform: lowercase;
   color: #f0f0f0;
   text-decoration: none;
   transition: color 0.3s ease;
